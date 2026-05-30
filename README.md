@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hola, soy Reider Andrés Miñuz Herrera
 
-<!--
-**reidermunoz/reidermunoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **ingeniero civil** con interés en la ingeniería estructural, la dinámica sísmica, la modelación computacional y el desarrollo de herramientas digitales aplicadas a la ingeniería.
 
-Here are some ideas to get you started:
+Combino la **ingeniería estructural con la programación** para crear soluciones que permitan analizar, modelar y visualizar el comportamiento de estructuras ante cargas, vibraciones y eventos sísmicos. Me interesa integrar herramientas como la inteligencia artificial, la realidad aumentada y la visualización 2D/3D para hacer que el análisis estructural sea más interactivo, práctico y accesible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Áreas de interés
+
+- Ingeniería estructural  
+- Dinámica sísmica  
+- Modelación computacional  
+- Programación aplicada a la ingeniería  
+- Visualización 2D/3D de estructuras  
+- Inteligencia artificial aplicada  
+- Realidad aumentada  
+- Desarrollo de herramientas digitales para análisis estructural  
+
+## 🚀 Sobre mi trabajo
+
+Actualmente desarrollo proyectos orientados a la creación de aplicaciones y herramientas computacionales que apoyan el análisis estructural y la visualización del comportamiento de estructuras. Mi objetivo es conectar la teoría de la ingeniería con soluciones digitales modernas que puedan ser útiles en investigación, enseñanza y práctica profesional.
+
+## 🌐 Conéctame
+- [LinkedIn](www.linkedin.com/in/reider-munoz)
+- [Correo Electrónico](reideramh@gmail.com)
