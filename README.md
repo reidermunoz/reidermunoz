@@ -27,5 +27,5 @@ Estas tecnologías me permiten desarrollar modelos computacionales, aplicaciones
 Actualmente desarrollo proyectos orientados a la creación de aplicaciones y herramientas computacionales que apoyan el análisis estructural y la visualización del comportamiento de estructuras. Mi objetivo es conectar la teoría de la ingeniería con soluciones digitales modernas que puedan ser útiles en investigación, enseñanza y práctica profesional.
 
 ## 🌐 Conéctame
-- [LinkedIn](www.linkedin.com/in/reider-munoz)
-- [Correo Electrónico](reideramh@gmail.com)
+- LinkedIn: www.linkedin.com/in/reider-munoz
+- Correo Electrónico: reideramh@gmail.com
